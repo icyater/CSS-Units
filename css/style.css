@@ -16,11 +16,16 @@ div:nth-child(5) {
 div:last-child {
 	background-color: lightblue;
 }
+div {
+	padding: 10px;
+	margin: 10px;
+	height: 30px;
+}
 
 
-piros
+/*piros
 kek
 zold
 sarga
 ezust
-vilagoskek
+vilagoskek*/
