@@ -26,26 +26,41 @@ div:nth-child(6) {
 
 div:nth-child(7){
 	background-color: purple;
+	width: 50ex;
 }
 
 div:nth-child(8){
 	background-color: pink;
+	width: 50em;
 }
 
 div:nth-child(9){
-	background-color: white	;
+	background-color: red;
+	width: 50rem;
+
 }
 
 div:nth-child(10){
 	background-color: black;
 	color: white;
+	width: 50vw;
 }
 
 div:nth-child(11){
 	background-color: orange;
+	width: 50vh;
+}
+div:nth-child(12){
+	background-color: lime;
+	width: 50vmin;
 }
 div:last-child{
 	background-color: lime;
+	width: 50vmax;
+}
+div {
+	padding: 10px;
+	margin: 10px;
 }
 
 
@@ -61,4 +76,4 @@ vilagoskek
 4, 2.4pc
 5, 28.4pt
 6, 512px
-HF: csinalni meg 6 divet. 1ex 2m 3rem 4vw 5vh 6vmin es letrehozni hatterszineket nekik is*/
+HF: csinalni meg 6 divet. 1ex 2em 3rem 4vw 5vh 6vmin es letrehozni hatterszineket nekik is*/
